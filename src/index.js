@@ -1,4 +1,5 @@
-import React from "react";
+// Example replacement depending on usage:
+import React, { useState, useEffect } from 'react';
 import ReactDOM from "react-dom/client";
 import "./index.css";
 import App from "./App";
