@@ -1,4 +1,5 @@
-import React from 'react';
+import { useState, useEffect } from 'react';
+// or whichever hook you're actually trying to use.
 import { mockPortfolioData } from '../mock/data';
 
 const About = () => {
