@@ -1,4 +1,5 @@
-import React from 'react';
+import { useState, useEffect } from 'react';
+// or whichever hook you're actually trying to use.
 import { Link } from 'react-router-dom';
 import Camera3D from '../components/Camera3D';
 import { mockPortfolioData } from '../mock/data';
